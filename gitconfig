@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amelieberz@hotmail.de
+	name = Amelie Berz
